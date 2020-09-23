@@ -1,16 +1,16 @@
-### Hi there 👋
+# Shadow
 
-<!--
-**ShadowGamingRYT/ShadowGamingRYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hi! I'm an indie game developer. I also love to play games which brought me to game development. I use [Unity](https://unity.com/) game engine to make games.
 
-Here are some ideas to get you started:
+I like to be mysterious about myself. I don't reveal my identity. I stay in the Shadows and act like the Shadows. So, don't ask my identity. You'll disappointed everytime.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Games I Made
+So far, I released one game in [Itch.io](https://itch.io/) which was made for [Brackeys Game Jam 2020.2](https://itch.io/jam/brackeys-4) where developers had 7 days to create a game. The name of the game I created is **[Dark Woods](https://shadowryt.itch.io/dark-woods)** which is a spokey puzzle platformer game.
+
+## Things I Use for Game Developement
+- [Discord](https://discord.com/) - Messanging Application to communicate with other of the team
+- [Github](https://github.com/) - File Distrbution Software to share my files and code with the team I work with or with others
+- [Trello](https://trello.com/) - To-do list software to organize and plan developement
+- [Visual Studio](https://visualstudio.microsoft.com/) & [Visual Studio Code](https://code.visualstudio.com/) - IDE for programming
+- [Unity](https://unity.com/) - Game engine for game developement
