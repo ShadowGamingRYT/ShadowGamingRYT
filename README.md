@@ -9,7 +9,10 @@ I like to be mysterious about myself. I don't reveal my identity. I stay in the 
 So far, I released one game in [Itch.io](https://itch.io/) which was made for [Brackeys Game Jam 2020.2](https://itch.io/jam/brackeys-4) where developers had 7 days to create a game. The name of the game I created is **[Dark Woods](https://shadowryt.itch.io/dark-woods)** which is a spokey puzzle platformer game.
 
 ## Things I Use for Game Developement
+- [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) - Vector image editor to make logos
 - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) - Photo editor to edit photo
+- [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html) - Video editor to edit video
+- [Blender](https://www.blender.org/) - 3D content-creation to model objects
 - [Discord](https://discord.com/) - Messanging application to communicate with other of the team
 - [Github](https://github.com/) - File distrbution Software to share my files and code with the team I work with or with others
 - [Trello](https://trello.com/) - To-do list software to organize and plan developement
