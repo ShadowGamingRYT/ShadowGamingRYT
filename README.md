@@ -9,11 +9,13 @@ I like to be mysterious about myself. I don't reveal my identity. I stay in the 
 So far, I released one game in [Itch.io](https://itch.io/) which was made for [Brackeys Game Jam 2020.2](https://itch.io/jam/brackeys-4) where developers had 7 days to create a game. The name of the game I created is **[Dark Woods](https://shadowryt.itch.io/dark-woods)** which is a spokey puzzle platformer game.
 
 ## Links
+Links to other places you can find me.
 - [Instagram](https://www.instagram.com/shadow_ryt/)
 - [Twitter](https://twitter.com/Shadow_RYT)
 - [YouTube](https://www.youtube.com/channel/UCc16FizvBj8H8i5ZzcXNNsQ)
 
-## Things I Use for Game Developement
+## Softwares I Use
+Softwares I usually use for most things.
 - [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) - Vector image editor to make logos
 - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) - Photo editor to edit photo
 - [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html) - Video editor to edit video
